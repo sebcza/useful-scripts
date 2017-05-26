@@ -1,4 +1,4 @@
-#Useful scripts 
+# Przydatne skrypty
 
 ## Logowanie po SSH bez hasła
 
